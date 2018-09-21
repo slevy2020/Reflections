@@ -15,8 +15,12 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  Branches are helpful when keeping track fo multiple versions, modes, or
+  experimental features of a product.
 
 How do the diagrams help you visualize the branch structure?
+  The diagrams let me see clearly what changes were made on each branch, their
+  parents, and how they all connect.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

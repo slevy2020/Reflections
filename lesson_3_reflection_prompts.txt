@@ -36,4 +36,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Changes should be made in a separate branch when the things changed, added,
+    or removed from the code are experimental, represent a different version
+    of the code, or for anything else that shouldn't be a part of the main,
+    final version.
